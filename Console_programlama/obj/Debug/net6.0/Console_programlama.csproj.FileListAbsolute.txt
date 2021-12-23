@@ -1,0 +1,15 @@
+C:\Users\Kenan\Desktop\c# çalışma\Console_programlama\bin\Debug\net6.0\Console_programlama.exe
+C:\Users\Kenan\Desktop\c# çalışma\Console_programlama\bin\Debug\net6.0\Console_programlama.deps.json
+C:\Users\Kenan\Desktop\c# çalışma\Console_programlama\bin\Debug\net6.0\Console_programlama.runtimeconfig.json
+C:\Users\Kenan\Desktop\c# çalışma\Console_programlama\bin\Debug\net6.0\Console_programlama.dll
+C:\Users\Kenan\Desktop\c# çalışma\Console_programlama\bin\Debug\net6.0\ref\Console_programlama.dll
+C:\Users\Kenan\Desktop\c# çalışma\Console_programlama\bin\Debug\net6.0\Console_programlama.pdb
+C:\Users\Kenan\Desktop\c# çalışma\Console_programlama\obj\Debug\net6.0\Console_programlama.csproj.AssemblyReference.cache
+C:\Users\Kenan\Desktop\c# çalışma\Console_programlama\obj\Debug\net6.0\Console_programlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\Desktop\c# çalışma\Console_programlama\obj\Debug\net6.0\Console_programlama.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\c# çalışma\Console_programlama\obj\Debug\net6.0\Console_programlama.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\c# çalışma\Console_programlama\obj\Debug\net6.0\Console_programlama.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\c# çalışma\Console_programlama\obj\Debug\net6.0\Console_programlama.dll
+C:\Users\Kenan\Desktop\c# çalışma\Console_programlama\obj\Debug\net6.0\ref\Console_programlama.dll
+C:\Users\Kenan\Desktop\c# çalışma\Console_programlama\obj\Debug\net6.0\Console_programlama.pdb
+C:\Users\Kenan\Desktop\c# çalışma\Console_programlama\obj\Debug\net6.0\Console_programlama.genruntimeconfig.cache
