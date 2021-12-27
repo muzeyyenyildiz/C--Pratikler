@@ -1,0 +1,15 @@
+C:\Users\Kenan\Desktop\C# Pratikler\SwichCase\bin\Debug\net6.0\SwichCase.exe
+C:\Users\Kenan\Desktop\C# Pratikler\SwichCase\bin\Debug\net6.0\SwichCase.deps.json
+C:\Users\Kenan\Desktop\C# Pratikler\SwichCase\bin\Debug\net6.0\SwichCase.runtimeconfig.json
+C:\Users\Kenan\Desktop\C# Pratikler\SwichCase\bin\Debug\net6.0\SwichCase.dll
+C:\Users\Kenan\Desktop\C# Pratikler\SwichCase\bin\Debug\net6.0\ref\SwichCase.dll
+C:\Users\Kenan\Desktop\C# Pratikler\SwichCase\bin\Debug\net6.0\SwichCase.pdb
+C:\Users\Kenan\Desktop\C# Pratikler\SwichCase\obj\Debug\net6.0\SwichCase.csproj.AssemblyReference.cache
+C:\Users\Kenan\Desktop\C# Pratikler\SwichCase\obj\Debug\net6.0\SwichCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\Desktop\C# Pratikler\SwichCase\obj\Debug\net6.0\SwichCase.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\C# Pratikler\SwichCase\obj\Debug\net6.0\SwichCase.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\C# Pratikler\SwichCase\obj\Debug\net6.0\SwichCase.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\C# Pratikler\SwichCase\obj\Debug\net6.0\SwichCase.dll
+C:\Users\Kenan\Desktop\C# Pratikler\SwichCase\obj\Debug\net6.0\ref\SwichCase.dll
+C:\Users\Kenan\Desktop\C# Pratikler\SwichCase\obj\Debug\net6.0\SwichCase.pdb
+C:\Users\Kenan\Desktop\C# Pratikler\SwichCase\obj\Debug\net6.0\SwichCase.genruntimeconfig.cache
