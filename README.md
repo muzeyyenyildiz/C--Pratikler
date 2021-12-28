@@ -6,3 +6,4 @@
 - Operatorler
 - Tip_Donusumleri
 - if-else-if
+- Swich-Case
