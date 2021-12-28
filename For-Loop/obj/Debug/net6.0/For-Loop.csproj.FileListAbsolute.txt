@@ -1,0 +1,15 @@
+C:\Users\Kenan\Desktop\C# Pratikler\For-Loop\bin\Debug\net6.0\For-Loop.exe
+C:\Users\Kenan\Desktop\C# Pratikler\For-Loop\bin\Debug\net6.0\For-Loop.deps.json
+C:\Users\Kenan\Desktop\C# Pratikler\For-Loop\bin\Debug\net6.0\For-Loop.runtimeconfig.json
+C:\Users\Kenan\Desktop\C# Pratikler\For-Loop\bin\Debug\net6.0\For-Loop.dll
+C:\Users\Kenan\Desktop\C# Pratikler\For-Loop\bin\Debug\net6.0\ref\For-Loop.dll
+C:\Users\Kenan\Desktop\C# Pratikler\For-Loop\bin\Debug\net6.0\For-Loop.pdb
+C:\Users\Kenan\Desktop\C# Pratikler\For-Loop\obj\Debug\net6.0\For-Loop.csproj.AssemblyReference.cache
+C:\Users\Kenan\Desktop\C# Pratikler\For-Loop\obj\Debug\net6.0\For-Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\Desktop\C# Pratikler\For-Loop\obj\Debug\net6.0\For-Loop.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\C# Pratikler\For-Loop\obj\Debug\net6.0\For-Loop.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\C# Pratikler\For-Loop\obj\Debug\net6.0\For-Loop.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\C# Pratikler\For-Loop\obj\Debug\net6.0\For-Loop.dll
+C:\Users\Kenan\Desktop\C# Pratikler\For-Loop\obj\Debug\net6.0\ref\For-Loop.dll
+C:\Users\Kenan\Desktop\C# Pratikler\For-Loop\obj\Debug\net6.0\For-Loop.pdb
+C:\Users\Kenan\Desktop\C# Pratikler\For-Loop\obj\Debug\net6.0\For-Loop.genruntimeconfig.cache
