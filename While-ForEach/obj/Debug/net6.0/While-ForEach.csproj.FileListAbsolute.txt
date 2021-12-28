@@ -1,0 +1,15 @@
+C:\Users\Kenan\Desktop\C# Pratikler\While-ForEach\bin\Debug\net6.0\While-ForEach.exe
+C:\Users\Kenan\Desktop\C# Pratikler\While-ForEach\bin\Debug\net6.0\While-ForEach.deps.json
+C:\Users\Kenan\Desktop\C# Pratikler\While-ForEach\bin\Debug\net6.0\While-ForEach.runtimeconfig.json
+C:\Users\Kenan\Desktop\C# Pratikler\While-ForEach\bin\Debug\net6.0\While-ForEach.dll
+C:\Users\Kenan\Desktop\C# Pratikler\While-ForEach\bin\Debug\net6.0\ref\While-ForEach.dll
+C:\Users\Kenan\Desktop\C# Pratikler\While-ForEach\bin\Debug\net6.0\While-ForEach.pdb
+C:\Users\Kenan\Desktop\C# Pratikler\While-ForEach\obj\Debug\net6.0\While-ForEach.csproj.AssemblyReference.cache
+C:\Users\Kenan\Desktop\C# Pratikler\While-ForEach\obj\Debug\net6.0\While-ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\Desktop\C# Pratikler\While-ForEach\obj\Debug\net6.0\While-ForEach.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\C# Pratikler\While-ForEach\obj\Debug\net6.0\While-ForEach.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\C# Pratikler\While-ForEach\obj\Debug\net6.0\While-ForEach.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\C# Pratikler\While-ForEach\obj\Debug\net6.0\While-ForEach.dll
+C:\Users\Kenan\Desktop\C# Pratikler\While-ForEach\obj\Debug\net6.0\ref\While-ForEach.dll
+C:\Users\Kenan\Desktop\C# Pratikler\While-ForEach\obj\Debug\net6.0\While-ForEach.pdb
+C:\Users\Kenan\Desktop\C# Pratikler\While-ForEach\obj\Debug\net6.0\While-ForEach.genruntimeconfig.cache
